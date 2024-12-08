@@ -14,8 +14,14 @@
 
 
 
-#SQLITE
+# Exported data
 data/clean_data.csv
+
+# pptx file
+
+Presentations\Phase 3 Presntations.pptx
+
+
 
 
 # IPython
