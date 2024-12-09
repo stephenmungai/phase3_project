@@ -51,19 +51,19 @@ To achieve my objective I sourced my data from
 # Data Visualisations
 
 ## Water type group vs status group
-![Water type group vs status group](<Visualisations\Water type group vs status group.png>)
+![Water type group vs status group](<Visualisations/Water type group vs status group.png>)
 
 The above figure shows that simple pumps are the most common pumps found in Tanzania
 
 ## Payment Type vs Status group
 
-![Water type group vs status group](<Visualisations\Payment Type vs status group.png>)
+![Payment type vs status group](<Visualisations/Payment Type vs status group.png>)
 
 The figure shows that most wells users dont have to pay to use the water point but coincidentally most non functional wells were used by users who did not have to pay. This means that those who managed the water points may have lacked funds to repair their wells leading to the wells they managed to cease from functioning
 
 ## Extraction group vs Status group
 
-![Extraction group vs status group](<Visualisations\extraction type vs status group.png>)
+![Extraction type vs status group](<Visualisations/extraction type vs status group.png>)
 
 The figure shows that water points that used gravity as a way to extract water had the most functioning wells. This indicates that pumps that used gravity 
 
